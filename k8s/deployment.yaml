@@ -4,7 +4,7 @@ kind: Namespace
 metadata:  
   name: jenkins  
 spec:
-  
+---  
 # Persistent Volume Claim
 apiVersion: v1
 kind: PersistentVolumeClaim
