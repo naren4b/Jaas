@@ -1,9 +1,4 @@
-# Create the namespace 
-apiVersion: v1
-kind: Namespace
-metadata:  
-  name: jenkins  
----  
+
 # Persistent Volume Claim
 apiVersion: v1
 kind: PersistentVolumeClaim
